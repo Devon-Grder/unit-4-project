@@ -1,0 +1,3 @@
+function Spawn_Skeleton () {
+	
+}
