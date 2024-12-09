@@ -1,3 +1,1 @@
-function Spawn_Skeleton () {
-	
-}
+
